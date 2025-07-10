@@ -190,3 +190,29 @@ This system is designed to identify the exact geographic location (latitude, lon
 
 ---
 
+## Author
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
+
+- 👨‍💻 All of my projects are available at [https://skwasimakram.com](https://skwasimakram.com)
+
+- 📝 I regularly write articles on [https://blog.skwasimakram.com](https://blog.skwasimakram.com)
+
+- 📫 How to reach me **hello@skwasimakram.com**
+
+- 🧑‍💻 Google Developer Profile [https://g.dev/skwasimakram](https://g.dev/skwasimakram)
+
+- 📲 LinkedIn [https://www.linkedin.com/in/sk-wasim-akram](https://www.linkedin.com/in/sk-wasim-akram)
+
+---
+
+## 🤝 Contribution
+
+Pull requests, feature suggestions, and bug reports are welcome.
+
+---
+
+## 📄 License
+
+This project is under the [MIT License](LICENSE).
+
+---
