@@ -190,12 +190,3 @@ This system is designed to identify the exact geographic location (latitude, lon
 
 ---
 
-## 🧪 Next Steps
-
-If you'd like to prototype:
-1. Start indexing a small region (e.g. a city) via Google Street View API
-2. Extract image features with CLIP / DINOv2
-3. Store in FAISS DB
-4. Search and match input images
-
-Want help writing code for feature extraction, indexing, and matching? I can help!
