@@ -1,4 +1,4 @@
-<h1 align="center"> # The Dead End </h1>
+<h1 align="center">💀 The Dead End 💀</h1>
 
 # 🧠 Image-to-Map Geolocation System (Photo-to-StreetView Matcher)
 
