@@ -160,6 +160,7 @@ This system is designed to identify the exact geographic location (latitude, lon
 
 ```
 
+## 🗺️ System Architecture Diagram (Easy)
 
 ```
          ┌──────────────────┐
